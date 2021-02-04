@@ -1,0 +1,1 @@
+chrome-extension://fibdefoimiihbbangjojolpbbegdpejl/contentscript/pin-init-btn.js
